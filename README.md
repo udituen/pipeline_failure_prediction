@@ -71,7 +71,10 @@ pipeline-failure-prediction/
     ```bash
     jupyter notebook
     ```
-
+Note: This project uses docker and airflow for end to end MLOps process
+on windows, the command 
+```Remove-Item alias:curl```
+is needed to run the curl script that pulls docker compose when building
 ---
 
 ## Expected Outcomes
