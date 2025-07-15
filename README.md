@@ -43,13 +43,13 @@ pipeline-failure-prediction/
 
 ---
 
-## 🔢 Data Sources
+## Data Sources
 - **PHMSA Pipeline Incident Data**: [PHMSA Data Portal](https://www.phmsa.dot.gov/data-and-statistics/pipeline/pipeline-incident-20-year-trends)
 - **Simulated Sensor Data**: Synthetic datasets created for pressure, temperature, flow rate, and vibration.
 
 ---
 
-## 🧑‍💻 How to Run This Project
+## How to Run This Project
 1. Clone this repository:
     ```bash
     git clone https://github.com/YOUR-USERNAME/pipeline-failure-prediction.git
